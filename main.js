@@ -1,2 +1,3 @@
 let variable;
-let variable_rama3;
+let variable_rama1;
+let variable_rama2;
